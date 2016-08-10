@@ -1,0 +1,2 @@
+kagoyume.testClass
+kagoyume.Product
